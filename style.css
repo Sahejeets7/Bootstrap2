@@ -1,0 +1,7 @@
+.br-left{
+    border-left: 1px solid white;
+}
+
+.nav-link{
+    text-transform: uppercase !important;
+}
